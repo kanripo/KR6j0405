@@ -1,0 +1,4 @@
+001-0779c02	TKD 11-1253b	buddhist/K-koreana/11-tif/1200-1299/11_1253_B.TIF
+001-0779c23	TKD 11-1253c	buddhist/K-koreana/11-tif/1200-1299/11_1253_C.TIF
+001-0779c00	T 001-0779c	buddhist/T-taisho/T20/07/T20-0779.png
+001-0780a00	T 001-0780a	buddhist/T-taisho/T20/07/T20-0780.png
