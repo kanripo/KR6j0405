@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:48.578054
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:04
 #+TITLE: 六字神呪經
 #+PROPERTY: CBETA_ID T20n1180
 #+PROPERTY: ID KR6j0405
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1180
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0405_T_000-0779b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0405_T_001-0779b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1180¶
-
- 六字神呪經¶
+No. 1180¶
+六字神呪經¶
 ¶
 南天竺國三藏菩提流志奉　詔譯¶
 
